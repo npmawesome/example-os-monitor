@@ -1,0 +1,16 @@
+{
+  "name": "example-os-monitor",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the os-monitor module.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-os-monitor"
+  },
+  "dependencies": {
+    "os-monitor": "^1.0.1"
+  }
+}
